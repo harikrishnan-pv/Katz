@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Katz/static/css/main.3fd0db14.chunk.css",
+    "main.js": "/Katz/static/js/main.757dd2d2.chunk.js",
+    "main.js.map": "/Katz/static/js/main.757dd2d2.chunk.js.map",
+    "runtime-main.js": "/Katz/static/js/runtime-main.8931c197.js",
+    "runtime-main.js.map": "/Katz/static/js/runtime-main.8931c197.js.map",
+    "static/js/2.badb0748.chunk.js": "/Katz/static/js/2.badb0748.chunk.js",
+    "static/js/2.badb0748.chunk.js.map": "/Katz/static/js/2.badb0748.chunk.js.map",
+    "static/js/3.ef03fd2e.chunk.js": "/Katz/static/js/3.ef03fd2e.chunk.js",
+    "static/js/3.ef03fd2e.chunk.js.map": "/Katz/static/js/3.ef03fd2e.chunk.js.map",
+    "index.html": "/Katz/index.html",
+    "static/css/main.3fd0db14.chunk.css.map": "/Katz/static/css/main.3fd0db14.chunk.css.map",
+    "static/js/2.badb0748.chunk.js.LICENSE.txt": "/Katz/static/js/2.badb0748.chunk.js.LICENSE.txt",
+    "static/media/bg.debcfeaf.jpg": "/Katz/static/media/bg.debcfeaf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8931c197.js",
+    "static/js/2.badb0748.chunk.js",
+    "static/css/main.3fd0db14.chunk.css",
+    "static/js/main.757dd2d2.chunk.js"
+  ]
+}
