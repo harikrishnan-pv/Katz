@@ -28,8 +28,8 @@ function App() {
       <Router>
         <Layout>
           <Switch>
-            <Route exact path="/">
-              <Home />
+            <Route path="/">
+              <Home/>
             </Route>
             <Route path="/classes">
               <Classes1 />
