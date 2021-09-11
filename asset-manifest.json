@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Katz/static/css/main.3fd0db14.chunk.css",
-    "main.js": "/Katz/static/js/main.d860adf3.chunk.js",
-    "main.js.map": "/Katz/static/js/main.d860adf3.chunk.js.map",
+    "main.js": "/Katz/static/js/main.a73067b7.chunk.js",
+    "main.js.map": "/Katz/static/js/main.a73067b7.chunk.js.map",
     "runtime-main.js": "/Katz/static/js/runtime-main.7bb32c1e.js",
     "runtime-main.js.map": "/Katz/static/js/runtime-main.7bb32c1e.js.map",
     "static/css/2.818011ed.chunk.css": "/Katz/static/css/2.818011ed.chunk.css",
-    "static/js/2.a47cd5e9.chunk.js": "/Katz/static/js/2.a47cd5e9.chunk.js",
-    "static/js/2.a47cd5e9.chunk.js.map": "/Katz/static/js/2.a47cd5e9.chunk.js.map",
+    "static/js/2.a46bc648.chunk.js": "/Katz/static/js/2.a46bc648.chunk.js",
+    "static/js/2.a46bc648.chunk.js.map": "/Katz/static/js/2.a46bc648.chunk.js.map",
     "static/js/3.4a06c224.chunk.js": "/Katz/static/js/3.4a06c224.chunk.js",
     "static/js/3.4a06c224.chunk.js.map": "/Katz/static/js/3.4a06c224.chunk.js.map",
     "index.html": "/Katz/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Katz/static/css/2.818011ed.chunk.css.map",
     "static/css/main.3fd0db14.chunk.css.map": "/Katz/static/css/main.3fd0db14.chunk.css.map",
-    "static/js/2.a47cd5e9.chunk.js.LICENSE.txt": "/Katz/static/js/2.a47cd5e9.chunk.js.LICENSE.txt",
+    "static/js/2.a46bc648.chunk.js.LICENSE.txt": "/Katz/static/js/2.a46bc648.chunk.js.LICENSE.txt",
     "static/media/bg.debcfeaf.jpg": "/Katz/static/media/bg.debcfeaf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7bb32c1e.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.a47cd5e9.chunk.js",
+    "static/js/2.a46bc648.chunk.js",
     "static/css/main.3fd0db14.chunk.css",
-    "static/js/main.d860adf3.chunk.js"
+    "static/js/main.a73067b7.chunk.js"
   ]
 }
