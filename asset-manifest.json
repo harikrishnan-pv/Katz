@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Katz/static/css/main.3fd0db14.chunk.css",
-    "main.js": "/Katz/static/js/main.9c1c05bd.chunk.js",
-    "main.js.map": "/Katz/static/js/main.9c1c05bd.chunk.js.map",
+    "main.js": "/Katz/static/js/main.bd3e8b71.chunk.js",
+    "main.js.map": "/Katz/static/js/main.bd3e8b71.chunk.js.map",
     "runtime-main.js": "/Katz/static/js/runtime-main.7bb32c1e.js",
     "runtime-main.js.map": "/Katz/static/js/runtime-main.7bb32c1e.js.map",
     "static/css/2.818011ed.chunk.css": "/Katz/static/css/2.818011ed.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.a47cd5e9.chunk.js",
     "static/css/main.3fd0db14.chunk.css",
-    "static/js/main.9c1c05bd.chunk.js"
+    "static/js/main.bd3e8b71.chunk.js"
   ]
 }
